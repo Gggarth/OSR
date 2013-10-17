@@ -1,4 +1,12 @@
 OSR
 Copyright 2013 Gggarth
 
+LIBRARIES
 This game includes the CraftyJS library available at http://craftyjs.com/
+
+GRAPHICS
+16x16_forest_1 and 16x16_forest_2 are adapted from an overworld sprite map by Sharm at OpenGameArt.org. The hunter in 16x16_forest_1 is from a sprite map by Antifarea at OpenGameArt.org.
+hunter.png is a sprite map by Antifarea at OpenGameArt.org.
+
+AUDIO
+All audio files are from: http://www.mobilefish.com/
